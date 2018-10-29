@@ -2,7 +2,12 @@
   "name": "document-shim",
   "version": "1.0.0",
   "description": "a shim for the DOM document object",
-  "keywords": ["document-shim", "shim", "dom", "document"],
+  "keywords": [
+    "document-shim",
+    "shim",
+    "dom",
+    "document"
+  ],
   "author": "Websecurify <contact@websecurify.com> (http://www.websecurify.com)",
   "homepage": "https://github.com/websecurify/node-document-shim",
   "repository": {
@@ -14,8 +19,10 @@
     "url": "http://github.com/websecurify/node-document-shim/issues/"
   },
   "main": "./index.js",
-    "licenses": [{
-      "type" : "MIT",
-      "url" : "https://github.com/websecurify/node-document-shim/LICENSE.md"
-    }]
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/websecurify/node-document-shim/LICENSE.md"
+    }
+  ]
 }
